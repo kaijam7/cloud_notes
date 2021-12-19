@@ -12,11 +12,15 @@
 
   官网传送门：https://git-scm.com/
 
+  安装及设置教程：
+
 - Typora
 
-  一款简洁的本地Markdown编辑器，支持Windows/Mac/Linux三大系统
+  一款简洁的本地Markdown编辑器，采用所见即所得的编辑方式，支持Windows/Mac/Linux三大系统
 
-  [Typora官网]: https://www.typora.net/
+  官网传送门：https://www.typora.net/
+
+  安装及设置教程：
 
 ## 实现步骤
 

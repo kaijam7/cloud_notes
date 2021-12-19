@@ -16,9 +16,7 @@
 
   一款简洁的本地Markdown编辑器，支持Windows/Mac/Linux三大系统
 
-  官网传送门：
-
-  [https://www.typora.net/]: 
+  [Typora官网]: https://www.typora.net/
 
 ## 实现步骤
 
